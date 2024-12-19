@@ -1,0 +1,24 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Skip count by 2s and find the total pinwheels .<br><img width='55%' src='./images/1.png'>",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "2"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Skip count by 5s and find the total ice-creams .<br><img width='55%' src='./images/2.png'>",
+        "options": [
+            "15",
+            "10",
+            "20",
+            "25"
+        ],
+        "correct": 0
+    }
+]
